@@ -23,8 +23,7 @@ namespace FAFLauncher {
 			runGame(args);
 		}
 
-		const string appID = "9420";
-//AppID Supreme Commander: Forged Alliance
+		const string appID = "9420"; //AppID Supreme Commander: Forged Alliance
 		const string fafDir = "c:\\ProgramData\\FAForever\\bin";
 		const string fafExecutable = "ForgedAlliance.bexe";
 		const string FAFFullPath = fafDir + "\\" + fafExecutable;
