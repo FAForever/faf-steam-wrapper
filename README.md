@@ -12,8 +12,9 @@ We are the community, who loves this game - a game which even after so many year
 And at this point is kinda shame, that this game is not producing any today's metering. Lot's of potential players simply don't know, that this game has still a respectful player base.
 
 And this is the goal of this wrapper.
-- every launch of the game, can light up the Steam player activity
-- even that, this does not enforce of having Steam running - wrapper simply run the game with no hassles even if it fails contacting Steam Api
+- every launch of the game, it sets the game as a running in your Steam player activity
+- this does not mean it'll require Steam running - wrapper simply run the game with no hassles even if it fails contacting Steam Api
+- Steam does not have to be even installed
 - its a small "launcher" which just tries inform Steam through Api, that game has been launched
 - it quits as soon as you close the game
 - since FAF now requires the ownership of the original copy of the game, its completely legit
