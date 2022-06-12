@@ -32,7 +32,7 @@ Launcher .exe will have same name as the `ForgedAlliance.exe` and the original n
 - one small extra process running along with game
 - FAF client will have to rename original .exe file to .bin and add it into its internal distribution file-list as the new file
 
-### Concept 2
+### Concept 2 (draft)
 Make this as truly launcher, using different name of the .exe, something like `FAFLauncher.exe` and do the rest just as above - launch the game with prior contacting Steam
 
 ![how2](./images/how2.png)
